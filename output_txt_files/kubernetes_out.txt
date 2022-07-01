@@ -1,0 +1,15 @@
+Error from server (AlreadyExists): pods "speedygamer12flaskpred" already exists
+NAME                     READY   STATUS             RESTARTS   AGE
+speedygamer12flask       0/1     ImagePullBackOff   0          13m
+speedygamer12flaskpred   1/1     Running            0          5m53s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
